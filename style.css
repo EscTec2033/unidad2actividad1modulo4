@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
